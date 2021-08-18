@@ -1,13 +1,14 @@
-<h2> Sobre mim </h2>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções.
-- 🎓 &nbsp; Estudando **ANALISE E DESENVOLVIMENTO DE SOFTWARE** na <a href="https://estacio.br/">ESTACIO</a>.
-- 🎓 &nbsp; Cursei até o 7º perido de **BACHARELADO EM SISTEMAS DA INFORMAÇÃO** na UFRPE <a href="http://www.ufrpe.br/">UFRPE</a>.
-- 💼 &nbsp; Trabalhando como **TRABALHO COMO TECNICO DE INFORMATICA NA EREM TRISTÃO FERREIRA BESSA** na <a href="https://www.facebook.com/erem.tristaoferreirabessa.3">EREMTFB</a>
-- 💼 &nbsp; Ja trabalhei como **TÉCNICO EM REDES DE TELECOMUNICAÇÕES** na <a href="https://www.facebook.com/vianetpe">VIANET</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS**.
+<h2> About me </h2>
 
-## 🚀**Linguagens e Ferramentas:**  
+- 🤔 &nbsp; Exploring new technologies and developing solutions.
+- 🎓 &nbsp; Studying **SOFTWARE ANALYSIS AND DEVELOPMENT** at <a href="https://estacio.br/">ESTACIO</a>.
+- 🎓 &nbsp; I attended until the 7th period of **BACHELOR IN INFORMATION SYSTEMS** at UFRPE <a href="http://www.ufrpe.br/">UFRPE</a>.
+- 💼 &nbsp; **WORKING AS A COMPUTER TECHNICIAN AT EREM TRISTAN FERREIRA BESSA** at <a href="https://www.facebook.com/erem.tristaoferreirabessa.3">EREMTFB</a>
+- 💼 &nbsp; I have already worked as a **TELECOMMUNICATION NETWORK TECHNICIAN** at <a href="https://www.facebook.com/vianetpe">VIANET</a>
+- 🌱 &nbsp; Learning more about **TECHNOLOGIES**.
+
+## 🚀**Languages ​​and Tools:**  
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -36,7 +37,7 @@
 </a>
 
 <br>
-<h2><strong>Minhas Redes Sociais</strong></h2>
+<h2><strong>My Social Networks</strong></h2>
 <br>
 
 
@@ -58,7 +59,7 @@
 
 
 ## 🧐 Mais sobre mim ##
-  Me chamo Wenderson Rodrigues da Silva Farias tenho 23 anos, curso "ADS" e ja cursei "BSI" na UFRPE, tive que desistir por ter que arrumar um emprego e não conseguir conciliar com a faculdade. Atualmente trabalho em uma escola estadual como Técnico em Informática. Sempre me interessei pela área de tecnologia, desde pequeno  tinha muita facilidade para aprender, conseguia resolver questões e problemas com fatores lógicos, desmontava as coisas que davam defeito pra ver como elas funcionavam, e até hoje faço isso, sigo muito o pensamento de Lavoisier que dizia "Nada se perde tudo se transforma". Sou muito dedicado, trabalho duro se for preciso mas gosto de encontrar maneiras de tornar as coisas mais práticas e eficientes.
+  My name is Wenderson Rodrigues da Silva Farias, I'm 23 years old, studied "ADS" and already attended "BSI" at UFRPE, I had to give up because I had to get a job and couldn't reconcile with college. I currently work at a state school as a Computer Technician. I've always been interested in the area of ​​technology, since I was little I was very easy to learn, I was able to solve questions and problems with logical factors, I dismantled things that were defective to see how they worked, and I still do that, I follow Lavoisier's thinking a lot. he said "Nothing is lost, everything is transformed". I'm very dedicated, I work hard if I have to but I like to find ways to make things more practical and efficient.
 
 <table>
   <tr>
@@ -72,8 +73,3 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
