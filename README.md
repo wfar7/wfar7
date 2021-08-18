@@ -58,7 +58,7 @@
 
 
 
-## 🧐 Mais sobre mim ##
+## 🧐 More about me ##
   My name is Wenderson Rodrigues da Silva Farias, I'm 23 years old, studied "ADS" and already attended "BSI" at UFRPE, I had to give up because I had to get a job and couldn't reconcile with college. I currently work at a state school as a Computer Technician. I've always been interested in the area of ​​technology, since I was little I was very easy to learn, I was able to solve questions and problems with logical factors, I dismantled things that were defective to see how they worked, and I still do that, I follow Lavoisier's thinking a lot. he said "Nothing is lost, everything is transformed". I'm very dedicated, I work hard if I have to but I like to find ways to make things more practical and efficient.
 
 <table>
