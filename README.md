@@ -70,5 +70,3 @@
     </td>
   </tr>
 </table>
-
-<img align="right" width="300" src="https://www.filepicker.io/api/file/0VyzC9vTxiOWmML3TFgq" />
