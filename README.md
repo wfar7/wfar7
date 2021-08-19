@@ -70,4 +70,5 @@
     </td>
   </tr>
 </table>
+
 <img align="right" width="300" src="https://hermes.digitalinnovation.one/articles/cover/86718bca-ddea-4776-a86b-1257fb54cd80.gif" />
